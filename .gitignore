@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+
+# Compiled Binaries
+*.exe
+*.o
+*.obj
+
+# Vite build cache
+.vite/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
